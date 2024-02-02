@@ -2,7 +2,8 @@
 
 ## Overview
 This repository showcases a Tableau dashboard with multiple visualizations analyzing COVID-19 data sourced from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data). The dashboard covers different aspects of the pandemic, including geographical distribution, cases vs deaths, vaccination impact on cases, and vaccination impact on ICU patients.
-<img width="1516" alt="Screenshot 2024-02-02 at 18 27 21" src="https://github.com/arqamaq/Covid-19-Tableau-Dashboard/assets/98066518/0848587b-2aae-4a43-9606-b38f5d568515">
+![Dashboard 1](https://github.com/arqamaq/Covid-19-Tableau-Dashboard/assets/98066518/1cffab8e-97d1-4316-bfd2-f333cd971442)
+
 
 ## Visualization
 Explore the [Tableau Public COVID-19 Dashboard](https://public.tableau.com/app/profile/arqam.qureshi/viz/COVID19Dashboard_17069161590080/Dashboard1) for interactive visualizations.
